@@ -1,5 +1,5 @@
 {
-  "name": "r3f-vite-starter",
+  "name": "asco-vr",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -11,6 +11,7 @@
   "dependencies": {
     "@react-three/drei": "9.75.0",
     "@react-three/fiber": "8.13.3",
+    "@react-three/xr": "^6.0.0",
     "@types/three": "0.152.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
